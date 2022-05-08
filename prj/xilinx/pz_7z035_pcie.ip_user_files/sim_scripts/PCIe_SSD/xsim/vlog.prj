@@ -1,0 +1,30 @@
+verilog xil_defaultlib --include "../../../../../../user/Hardware/bd/PCIe_SSD/ipshared/ec67/hdl" --include "../../../../../../user/Hardware/bd/PCIe_SSD/ipshared/70cf/hdl" --include "../../../../../../user/Hardware/bd/PCIe_SSD/ip/PCIe_SSD_processing_system7_0_0" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_processing_system7_0_0/sim/PCIe_SSD_processing_system7_0_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_xbar_0/sim/PCIe_SSD_xbar_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_xlconcat_0_0/sim/PCIe_SSD_xlconcat_0_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/axi_pcie_v2_9_0_pcie_7x_v2_0_2_pipe_clock.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/axi_pcie_v2_9_0_pcie_7x_v2_0_2_qpll_wrapper.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/axi_pcie_v2_9_0_pcie_7x_v2_0_2_gt_common.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/axi_pcie_v2_9_0_pcie_7x_v2_0_2_qpll_drp.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/axi_pcie_v2_9_0_pcie_7x_v2_0_2_gtp_cpllpd_ovrd.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/hdl/PCIe_SSD_axi_pcie_0_0_pcie_7x_v2_0_2.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/trigger.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_pcie_0_0/sim/PCIe_SSD_axi_pcie_0_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_xlconstant_0_0/sim/PCIe_SSD_xlconstant_0_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_xbar_1/sim/PCIe_SSD_xbar_1.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_xbar_2/sim/PCIe_SSD_xbar_2.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_ds_0/sim/PCIe_SSD_auto_ds_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_pc_0/sim/PCIe_SSD_auto_pc_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_pc_3/sim/PCIe_SSD_auto_pc_3.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_us_0/sim/PCIe_SSD_auto_us_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_cc_0/sim/PCIe_SSD_auto_cc_0.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_ds_1/sim/PCIe_SSD_auto_ds_1.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_pc_1/sim/PCIe_SSD_auto_pc_1.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_ds_2/sim/PCIe_SSD_auto_ds_2.v" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_auto_pc_2/sim/PCIe_SSD_auto_pc_2.v" \
+"../../../bd/PCIe_SSD/synth/PCIe_SSD.v" \
+"../../../bd/PCIe_SSD/sim/PCIe_SSD.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

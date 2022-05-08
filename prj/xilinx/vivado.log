@@ -1,0 +1,159 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat May 29 15:05:12 2021
+# Process ID: 8720
+# Current directory: D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/prj/xilinx
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15572 D:\project\FPGA\FPGA_Design\TCL_project\Prj\pz_7z035_pcie\prj\xilinx\pz_7z035_pcie.xpr
+# Log file: D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/prj/xilinx/vivado.log
+# Journal file: D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/prj/xilinx\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/prj/xilinx/pz_7z035_pcie.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/sterben/.vscode/extensions/sterben.fpga-support-0.1.15/lib/Ailinx_lib/ip'.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_xfer_cntrl_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/ad_rst_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_xfer_status_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+WARNING: [IP_Flow 19-1971] File named "../../xilinx/common/up_clock_mon_constr.xdc" already exists in file group "xilinx_anylanguagesynthesis", cannot add it again.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/project/FPGA/.Lib/xIP'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/APP/vivado_18_3/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:31 ; elapsed = 00:00:52 . Memory (MB): peak = 737.512 ; gain = 135.980
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:13]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_0_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:373]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_1_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:1193]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_2_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:2381]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'SSD_PCIe_imp_TGKRWA' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:3167]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_64NSRD' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4224]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_CGBDL' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4454]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_D5U2AH' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4942]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm01_couplers_imp_1HC87AW' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5186]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm01_couplers_imp_1X5X77C' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5430]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm02_couplers_imp_5HEEOQ' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5964]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1NGQVYZ' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:6367]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1UCXHY3' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:6583]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1WT9TCR' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7078]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's01_couplers_imp_4SXDM' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7308]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's01_couplers_imp_6GZY2I' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7552]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:13]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_0_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:373]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_1_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:1193]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'PCIe_SSD_axi_interconnect_2_0' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:2381]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'SSD_PCIe_imp_TGKRWA' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:3167]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_64NSRD' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4224]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_CGBDL' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4454]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm00_couplers_imp_D5U2AH' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:4942]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm01_couplers_imp_1HC87AW' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5186]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm01_couplers_imp_1X5X77C' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5430]
+WARNING: [HDL 9-3756] overwriting previous definition of module 'm02_couplers_imp_5HEEOQ' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:5964]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1NGQVYZ' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:6367]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1UCXHY3' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:6583]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's00_couplers_imp_1WT9TCR' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7078]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's01_couplers_imp_4SXDM' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7308]
+WARNING: [HDL 9-3756] overwriting previous definition of module 's01_couplers_imp_6GZY2I' [D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/synth/PCIe_SSD.v:7552]
+update_compile_order -fileset sources_1
+open_bd_design {D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/PCIe_SSD.bd}
+Adding cell -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding cell -- xilinx.com:ip:axi_interconnect:2.1 - axi_interconnect_2
+Adding cell -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding cell -- xilinx.com:ip:xlconcat:2.1 - xlconcat_0
+Adding cell -- xilinx.com:ip:axi_pcie:2.9 - axi_pcie_0
+Adding cell -- xilinx.com:ip:xlconstant:1.1 - xlconstant_0
+Adding cell -- xilinx.com:ip:axi_cdma:4.1 - axi_cdma_0
+Adding cell -- xilinx.com:ip:proc_sys_reset:5.0 - proc_sys_reset_1
+Adding cell -- xilinx.com:ip:axi_interconnect:2.1 - axi_interconnect_0
+Adding cell -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding cell -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_ds
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding cell -- xilinx.com:ip:axi_interconnect:2.1 - axi_interconnect_1
+Adding cell -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding cell -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_us
+Adding cell -- xilinx.com:ip:axi_clock_converter:2.1 - auto_cc
+Adding cell -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_ds
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding cell -- xilinx.com:ip:axi_dwidth_converter:2.1 - auto_ds
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding cell -- xilinx.com:ip:proc_sys_reset:5.0 - proc_sys_reset_0
+Adding cell -- xilinx.com:ip:util_ds_buf:2.1 - util_ds_buf_0
+Excluding </SSD_PCIe/axi_cdma_0/S_AXI_LITE/Reg> from </SSD_PCIe/axi_cdma_0/Data>
+Successfully read diagram <PCIe_SSD> from BD file <D:/project/FPGA/FPGA_Design/TCL_project/Prj/pz_7z035_pcie/user/Hardware/bd/PCIe_SSD/PCIe_SSD.bd>
+open_bd_design: Time (s): cpu = 00:00:11 ; elapsed = 00:00:08 . Memory (MB): peak = 780.086 ; gain = 19.895
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat May 29 15:07:57 2021...

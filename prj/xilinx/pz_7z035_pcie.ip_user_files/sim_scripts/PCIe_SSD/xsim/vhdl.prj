@@ -1,0 +1,8 @@
+vhdl xil_defaultlib  \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_axi_cdma_0_0/sim/PCIe_SSD_axi_cdma_0_0.vhd" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_proc_sys_reset_1_0/sim/PCIe_SSD_proc_sys_reset_1_0.vhd" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_proc_sys_reset_0_0/sim/PCIe_SSD_proc_sys_reset_0_0.vhd" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../bd/PCIe_SSD/ip/PCIe_SSD_util_ds_buf_0_0/sim/PCIe_SSD_util_ds_buf_0_0.vhd" \
+
+nosort

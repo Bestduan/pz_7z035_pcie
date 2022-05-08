@@ -1,0 +1,15 @@
+{
+	"TOOL_CHAIN": "xilinx",
+	"PRJ_NAME": {
+		"FPGA": "pz_7z035_pcie",
+        "SOC": "pz_7z035_pcie"
+	},
+	"SOC_MODE": {
+        "app": "Hello World",
+        "bd_file": "PCIe_Test",
+        "os": "standalone",
+		"soc": "ps7_cortexa9_0"
+	},
+	"enableShowlog": false,
+	"Device": "xc7z035ffg676-2"
+}
